@@ -1,5 +1,5 @@
 # File sorter
-Python script that groups files in Downloads folder by their extension and removes them (puts into trash bin) if their total size exceeds a certain amount
+Python script that groups files in Downloads folder by their extension and removes them (puts into trash bin) if their total size exceeds a certain value
 
 # Installation and usage
 1. Install Python >= 3.5
